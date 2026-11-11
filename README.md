@@ -29,7 +29,7 @@ A real-time radar visualization project built using an **Arduino Uno**, **HC-SR0
 
 ## Software
 
-* PlatformIO (C++)
+* VS Code (C++)
 * Processing
 
 ---
